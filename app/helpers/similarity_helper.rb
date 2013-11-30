@@ -1,0 +1,2 @@
+module SimilarityHelper
+end
